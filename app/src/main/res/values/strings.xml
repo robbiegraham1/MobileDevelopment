@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MD_Coursework 1</string>
+    <string name="welcome_to_mobile_platform_development">Welcome to Mobile Platform Development</string>
+    <string name="press_to_get_data">Press to get data</string>
+    <string name="contains_bbc_weather_data_from_public_rss">Contains BBC weather data from public RSS</string>
+    <string name="raw_data_is_displayed_here">Raw Data is Displayed here</string>
+    <string name="next_city">Next City</string>
+    <string name="previous_city">Previous City</string>
+    <string name="glasgow">Glasgow</string>
+    <string name="london">London</string>
+    <string name="new_york">New York</string>
+    <string name="oman">Oman</string>
+    <string name="mauritius">Mauritius</string>
+    <string name="bangladesh">Bangladesh</string>
+    <string name="show_more_info">Show more info</string>
+</resources>
