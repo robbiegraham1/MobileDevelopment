@@ -1,16 +1,9 @@
-/*  Starter project for Mobile Platform Development in main diet 2023/2024
-    You should use this project as the starting point for your assignment.
-    This project simply reads the data from the required URL and displays the
-    raw data in a TextField
-*/
 
-//
-// Name                 _________________
-// Student ID           _________________
-// Programme of Study   _________________
-//
+//Robbie Graham
+//S1922240
+//Mobile Platform Development
 
-// UPDATE THE PACKAGE NAME to include your Student Identifier
+
 package com.example.md_coursework1;
 
 import androidx.appcompat.app.AppCompatActivity;
